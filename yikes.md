@@ -5,7 +5,7 @@
 
 ## Emergency Action Plan
 **Summary** - The goal of this Emergency Action Plan (EAP) is to respond to an emergency in a coordinated effort with  preplanned actions, reducing the need to think in an emergency and reducing actions that can increase risk.  This EAP has 3 main goals:
----
+
 
 1. Get out of immediate danger (Duck, Cover, and Hold)
 2. Determine the nature of the emergency (shelter in place or evacuate)
@@ -14,7 +14,6 @@
 Each goal is detailed below
 
 __Get out of immediate danger__
-
 For all emergencies, getting out of immediate danger requires assessing the situation to determine if there are any immediate threats to yourself, others around you, or pets, and if so, taking steps to mitigate these threats. The first thing we forget to use is our senses. **STOP** Listen, Look, Touch, and Smell.
 
 Here are simple questions to ask when determining if there is an immediate threat:
@@ -35,11 +34,9 @@ For an Earthquake, getting out of immediate danger means **Duck, Cover and Hold.
 **Hold:** Hold onto the furniture until the shaking stops. If you are not under a piece of furniture, just hold your protecting position. An earthquake can last for a minute or more.
 
 __Determine the nature of the emergency__
-
 The primary goal of determining the nature of the emergency is to decide if you should to **shelter in place or evacuate** to a safer location or meet-up location.  Secondary goals are to gather information in order to determine if there are simple steps that you can take to stop or minimize the emergency.  Determining if you are to shelter in place or evacuate can be deduced by the type of emergency: is it a natural disaster, like an earthquake or fire, or a man-made emergency, like a terrorist attack or auto accident.  Other ways to deduce this is by the news, or by listening to a radio or an Emergency Broadcast System (like a loudspeaker).  Use common sense to determine if you are going to leave and know your exit routes and your limits:  **Don’t become a victim.**
 
 __Communicate to loved ones__
-
 Communicating with loved ones is key: one goal of disaster planning is to know that your family is safe. It is paramount to communicate your status to family members throughout an entire emergency.
 
 What to communicate | Sample Question
@@ -56,7 +53,7 @@ Resources| Do you have water?  Do you have emergency supplies? Do you have a car
 **Summary** - Having a heads up that an issues that are developing will help you stay clear of issues and make informed decisions. Two is one and one is none, ensure that you have redundant methods to receive the alerts and that all parties included in your action plan also receive alerts for areas where you will be traveling. Using a service like [Nixle](http://www.nixle.com/), can provide you with push notifications and emails from local emergency services.
 
 Having access to amateur radio can afford you the ability to tune to local non-digital emergency services. However most groups now coordinate with digital encrypted radio channels.
----
+
 
 **Solano County:**
 
@@ -72,7 +69,7 @@ Local within walking distance, meaning you could walk to the location within rea
 Regional outside of walking distance but within a car ride to the location. Berkeley, and El Dorado would be considered examples of regional.
 Long Distance any location outside of the regional, Ideally these are locations that wouldn’t be directly impacted by the event.
 Methods of communication should be from simplest to complex, depending on the event. The goal of the communication is leave enough information so that resources and decisions can be made in your absence. Follow the order in each method below until you have made a successful contact.
----
+
 
 **SMS/ Text -** SMS uses the least amount of bandwidth, and doesn’t require a full signal to make a successful transmission
 
