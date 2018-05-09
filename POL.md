@@ -1,21 +1,21 @@
 
 # Pillars of Leadership
 
-* __Strategic Agility__ - see and implement vision</li>
-* __Perspective__ - integrate structures and staff</li>
+* __Strategic Agility__ - see and implement vision
+* __Perspective__ - integrate structures and staff
 * __Operational Effectiveness__ - balance systems and organization style
 
 These are the three pillars for leadership. Without them you cannot be an effective leader. Each complements the other.
 
 Strategic agility guides your decisions and ensures that you act with intention and purpose. If you cannot create a vision for your team or feel comfortable with leveraging strong partnerships to create one, you cannot create a plan to act upon.
 
-Perspective frames that vision. If you are caught up in the details your frame is to narrow and you can easily overlook opportunities and upcoming obstacles. If you cannot tacitly determine how maneuver out of the manusha then your perspective is too wide. You need to be able to manage at both the macro and micro level, keep them in balance so that you can anticipate the next move while guiding your team to execution.
+Perspective frames that vision. If you are caught up in the details your frame is to narrow and you can easily overlook opportunities and upcoming obstacles. If you cannot tacitly determine how maneuver out of the minutia then your perspective is too wide. You need to be able to manage at both the macro and micro level, keep them in balance so that you can anticipate the next move while guiding your team to execution.
 
 Operational Effectiveness, is the ability to know who and how to get things completed in the organization both formally and informally. Your vision must be in alignment to the overall function of the organization, else you and your team will be targeted as radical and others will resist your vision of change.  
 
 In order to create change, you need to first understand the culture of the team.  
 
-__Culture__: a pattern of shared assumptions that a group has learned as it has solved it’s problems of external adaptation and internal integration, that has been effective enough to be considered valid enough to be taught to new members as the accepted way to think and act in relation to those problems. 
+__Culture__: a pattern of shared assumptions that a group has learned as it has solved it’s problems of external adaptation and internal integration, that has been effective enough to be considered valid enough to be taught to new members as the accepted way to think and act in relation to those problems.
 
 Understanding why certain solutions are assumed truths will help you develop a perspective on how the team is tackling problems. It’s easy to get stuck here, because as leaders we obsess over the details. Without that obsession false solutions become the accepted truth. You’ll need to judge what things are flat wrong verses good enough. If you can widen your perspective you might find a common solution for multiple concerns increasing your chances of success while decreasing your efforts.
 
