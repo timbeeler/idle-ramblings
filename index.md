@@ -3,5 +3,5 @@ This is loose collections of documents that I have created and collected. Most o
 
 
 * [Pillars of Leadership](https://timbeeler.github.io/idle-ramblings/POL)
-* [Yikes](https://timbeeler.github.io/idle-ramblings/yikes)
+* [Yikes! An emergency action template](https://timbeeler.github.io/idle-ramblings/yikes)
 * [If not me, who? If not now, when?](https://timbeeler.github.io/idle-ramblings/gp)
