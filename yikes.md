@@ -14,7 +14,7 @@
 Each goal is detailed below
 
 __Get out of immediate danger__
----
+
 For all emergencies, getting out of immediate danger requires assessing the situation to determine if there are any immediate threats to yourself, others around you, or pets, and if so, taking steps to mitigate these threats. The first thing we forget to use is our senses. **STOP** Listen, Look, Touch, and Smell.
 
 Here are simple questions to ask when determining if there is an immediate threat:
@@ -35,11 +35,11 @@ For an Earthquake, getting out of immediate danger means **Duck, Cover and Hold.
 **Hold:** Hold onto the furniture until the shaking stops. If you are not under a piece of furniture, just hold your protecting position. An earthquake can last for a minute or more.
 
 __Determine the nature of the emergency__
----
+
 The primary goal of determining the nature of the emergency is to decide if you should to **shelter in place or evacuate** to a safer location or meet-up location.  Secondary goals are to gather information in order to determine if there are simple steps that you can take to stop or minimize the emergency.  Determining if you are to shelter in place or evacuate can be deduced by the type of emergency: is it a natural disaster, like an earthquake or fire, or a man-made emergency, like a terrorist attack or auto accident.  Other ways to deduce this is by the news, or by listening to a radio or an Emergency Broadcast System (like a loudspeaker).  Use common sense to determine if you are going to leave and know your exit routes and your limits:  **Don’t become a victim.**
 
 __Communicate to loved ones__
----
+
 Communicating with loved ones is key: one goal of disaster planning is to know that your family is safe. It is paramount to communicate your status to family members throughout an entire emergency.
 
 What to communicate | Sample Question
@@ -99,9 +99,9 @@ Regional Repeater -Vacaville| 5| N6ICW|147.195| +0.6 MHz | 123.00
 - [ ] TX/RX Check
 - [ ] Physical Condition (absence of corrosion, cracks in case)
 
-**Emergancy Communication Reference List:**
+**Emergency Communication Reference List:**
 
-__*Verify all numbers prior to implementation *__
+__**Verify all numbers prior to implementation**__
 
 This list is to be used as a written reference to reach people and agencies as needed. Do not assume that the stored numbers in your mobile device will be reachable in an emergency.
 
