@@ -4,8 +4,8 @@
 **Important information and reference materials used in emergencies and disasters**
 
 ## Emergency Action Plan
----
 **Summary** - The goal of this Emergency Action Plan (EAP) is to respond to an emergency in a coordinated effort with  preplanned actions, reducing the need to think in an emergency and reducing actions that can increase risk.  This EAP has 3 main goals:
+---
 
 1. Get out of immediate danger (Duck, Cover, and Hold)
 2. Determine the nature of the emergency (shelter in place or evacuate)
@@ -53,10 +53,10 @@ What is your ETA? |  How are you getting there? What time do you expect to get t
 Resources| Do you have water?  Do you have emergency supplies? Do you have a car, bike or other transportation? Are you with people?
 
 ## Emergency Alerts & Warnings
----
 **Summary** - Having a heads up that an issues that are developing will help you stay clear of issues and make informed decisions. Two is one and one is none, ensure that you have redundant methods to receive the alerts and that all parties included in your action plan also receive alerts for areas where you will be traveling. Using a service like [Nixle](http://www.nixle.com/), can provide you with push notifications and emails from local emergency services.
 
 Having access to amateur radio can afford you the ability to tune to local non-digital emergency services. However most groups now coordinate with digital encrypted radio channels.
+---
 
 **Solano County:**
 
@@ -66,13 +66,13 @@ Solano Sheriff | 155.490
 NOAA | 162.425
 
 ## Communication
----
 **Summary** - Communication is essential during an emergency, there is nothing better than knowing that your loved ones are okay. This section is focused on the method of communication, what to communicate is in the section above. Building a communication plan is almost as important as practicing it.
 The methods of communication are categorized under SMS/Text, Cell Phone/ Land Line, HAM Radio. Contacts are broken into three categories Local, Regional, and Long Distance.
 Local within walking distance, meaning you could walk to the location within reason. For example we could walk to Susan from our home, Susan would be considered a local contact.
 Regional outside of walking distance but within a car ride to the location. Berkeley, and El Dorado would be considered examples of regional.
 Long Distance any location outside of the regional, Ideally these are locations that wouldn’t be directly impacted by the event.
 Methods of communication should be from simplest to complex, depending on the event. The goal of the communication is leave enough information so that resources and decisions can be made in your absence. Follow the order in each method below until you have made a successful contact.
+---
 
 **SMS/ Text -** SMS uses the least amount of bandwidth, and doesn’t require a full signal to make a successful transmission
 
