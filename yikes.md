@@ -3,7 +3,7 @@
 
 **Important information and reference materials used in emergencies and disasters**
 
-### Emergency Action Plan
+## Emergency Action Plan
 ---
 **Summary** - The goal of this Emergency Action Plan (EAP) is to respond to an emergency in a coordinated effort with  preplanned actions, reducing the need to think in an emergency and reducing actions that can increase risk.  This EAP has 3 main goals:
 
@@ -52,7 +52,7 @@ When will we speak again?| Set a time to speak again. Set the alarm on your phon
 What is your ETA? |  How are you getting there? What time do you expect to get there?
 Resources| Do you have water?  Do you have emergency supplies? Do you have a car, bike or other transportation? Are you with people?
 
-### Emergency Alerts & Warnings
+## Emergency Alerts & Warnings
 ---
 **Summary** - Having a heads up that an issues that are developing will help you stay clear of issues and make informed decisions. Two is one and one is none, ensure that you have redundant methods to receive the alerts and that all parties included in your action plan also receive alerts for areas where you will be traveling. Using a service like [Nixle](http://www.nixle.com/), can provide you with push notifications and emails from local emergency services.
 
@@ -65,7 +65,7 @@ Agency | Radio Frequencies
 Solano Sheriff | 155.490
 NOAA | 162.425
 
-### Communication
+## Communication
 ---
 **Summary** - Communication is essential during an emergency, there is nothing better than knowing that your loved ones are okay. This section is focused on the method of communication, what to communicate is in the section above. Building a communication plan is almost as important as practicing it.
 The methods of communication are categorized under SMS/Text, Cell Phone/ Land Line, HAM Radio. Contacts are broken into three categories Local, Regional, and Long Distance.
@@ -94,14 +94,16 @@ Local Repeater -Vacaville | 4| W6VVR| 145.470|-0.6 MHz|127.30
 Regional Repeater -Vacaville| 5| N6ICW|147.195| +0.6 MHz | 123.00
 
 **Radio Maintenance Checklist**
--[ ] Battery Life HH:MM
+
+-[ ]  Battery Life HH:MM
 -[ ] TX/RX Check
 -[ ] Physical Condition (absence of corrosion, cracks in case)
 
-**Contact List:**
+**Emergancy Communication Reference List:**
+
 __*Verify all numbers prior to implementation *__
 
-This list is to be used as a written reference to reach people as needed. Do not assume that the store numbers in your mobile device will be reachable in an emergency.
+This list is to be used as a written reference to reach people and agencies as needed. Do not assume that the stored numbers in your mobile device will be reachable in an emergency.
 
 Agency| Number | Alt Number
 ---|---|---
