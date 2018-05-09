@@ -19,12 +19,12 @@ For all emergencies, getting out of immediate danger requires assessing the situ
 
 Here are simple questions to ask when determining if there is an immediate threat:
 
-- [ ]Touch & Look; Is anyone bleeding? Feel for wounds, look for blood on your fingers
-- [ ]Touch; Is the building/car/train shaking?
-- [ ]Look; Is anything obstructing movement or an exit?
-- [ ]Listen; do you hear anyone screaming?
-- [ ]Listen; do you hear sirens or a loudspeaker?
-- [ ]Smell; Do you smell gas, smoke?
+-[ ] Touch & Look; Is anyone bleeding? Feel for wounds, look for blood on your fingers
+-[ ] Touch; Is the building/car/train shaking?
+-[ ] Look; Is anything obstructing movement or an exit?
+-[ ] Listen; do you hear anyone screaming?
+-[ ] Listen; do you hear sirens or a loudspeaker?
+-[ ] Smell; Do you smell gas, smoke?
 
 For an Earthquake, getting out of immediate danger means **Duck, Cover and Hold.**
 
@@ -80,4 +80,44 @@ Methods of communication should be from simplest to complex, depending on the ev
 
 **Analog Land Lines -** Traditional land lines, or analog phones have been phased out for digital cordless devices. During an emergency office PBX systems can be stressed and require a power source. The fancy digital phone you have home may also require power (headset and base). Locating a true analog phone during an emergency can be challenging, it’s recommend having one at home.
 
-**Amateur Radio -** Requires a FCC license and training. Handheld and mobile stations can utilize regional repeaters with emergency power. Some repeaters have an “auto patch” mode that allows an analog call to be placed. You also have the ability to use the ARES network were trained emergency radio operator’s can relay a message to local, regional, and long distance contacts. 
+**Amateur Radio -** Requires a FCC license and training. Handheld and mobile stations can utilize regional repeaters with emergency power. Some repeaters have an “auto patch” mode that allows an analog call to be placed. You also have the ability to use the ARES network were trained emergency radio operator’s can relay a message to local, regional, and long distance contacts.
+
+**Channel Reference:**
+
+Category | Memory Channel | Net Name | Frequency | Offset |  Tone
+---|---|---|---|---|---
+Local Simplex|0|"Home"|144.240|n/a|n/a
+Local Repeater - Concord|1|W6CX|147.06|+0.6 MHz |100.00
+Local Repeater - Contra Costa | 2| WA6KQB|145.11| -0.6 MHz|82.5
+Local Repeater - Berkeley | 3| KB6LED|145.290|-0.6 MHz| 131.8
+Local Repeater -Vacaville | 4| W6VVR| 145.470|-0.6 MHz|127.30
+Regional Repeater -Vacaville| 5| N6ICW|147.195| +0.6 MHz | 123.00
+
+**Radio Maintenance Checklist**
+-[ ] Battery Life HH:MM
+-[ ] TX/RX Check
+-[ ] Physical Condition (absence of corrosion, cracks in case)
+
+**Contact List:**
+__*Verify all numbers prior to implementation *__
+
+This list is to be used as a written reference to reach people as needed. Do not assume that the store numbers in your mobile device will be reachable in an emergency.
+
+Agency| Number | Alt Number
+---|---|---
+Suisun Police |707-421-6622 (Emergency) :rotating_light:|707-421-7373 (Non-Emergency)
+Solano Sheriff|:rotating_light: |
+Suisun Fire Department|707-421-7205 :rotating_light:|
+Kaiser :hospital: |707-427-4025 (Fairfield)| 707-624-2600 (Vacaville)
+Poison Control | 1-800-222-1222|
+PG&E |1-800-743-5000|
+Water Sewage |707-421-7373
+Long Distance Emergency Contact |  |
+Regional Emergency Contact | |
+Local Emergency Contact | |
+Child's School | |
+Nuclear Family Member | |
+Nuclear Family Member | |
+Evacuation Zone |Kroc Center |Dan O. Root Elementary School
+California Emergency Management Agency | 916-845-8510 | 3650 Schriever Ave, Mather, Ca 95655
+Animal Control | 707-449-1700 | 707-784-1356 (Fairfield Animal Shelter)
