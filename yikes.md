@@ -19,12 +19,12 @@ For all emergencies, getting out of immediate danger requires assessing the situ
 
 Here are simple questions to ask when determining if there is an immediate threat:
 
--[ ] Touch & Look; Is anyone bleeding? Feel for wounds, look for blood on your fingers
--[ ] Touch; Is the building/car/train shaking?
--[ ] Look; Is anything obstructing movement or an exit?
--[ ] Listen; do you hear anyone screaming?
--[ ] Listen; do you hear sirens or a loudspeaker?
--[ ] Smell; Do you smell gas, smoke?
+- [ ] Touch & Look; Is anyone bleeding? Feel for wounds, look for blood on your fingers
+- [ ] Touch; Is the building/car/train shaking?
+- [ ] Look; Is anything obstructing movement or an exit?
+- [ ] Listen; do you hear anyone screaming?
+- [ ] Listen; do you hear sirens or a loudspeaker?
+- [ ] Smell; Do you smell gas, smoke?
 
 For an Earthquake, getting out of immediate danger means **Duck, Cover and Hold.**
 
@@ -95,9 +95,9 @@ Regional Repeater -Vacaville| 5| N6ICW|147.195| +0.6 MHz | 123.00
 
 **Radio Maintenance Checklist**
 
--[ ]  Battery Life HH:MM
--[ ] TX/RX Check
--[ ] Physical Condition (absence of corrosion, cracks in case)
+- [ ] Battery Life HH:MM
+- [ ] TX/RX Check
+- [ ] Physical Condition (absence of corrosion, cracks in case)
 
 **Emergancy Communication Reference List:**
 
