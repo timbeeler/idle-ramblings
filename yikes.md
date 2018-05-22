@@ -154,9 +154,9 @@ __Shut Off Gas__ -
 In an emergency, your gas can be turned off at the main gas service shutoff valve. Do not shut off the gas unless you smell gas, hear gas escaping, see a broken gas line or suspect a gas leak. If you shut off the gas, there may be a considerable delay before PG&E can turn your service back on.
 We have a gas wrench attached to the meter, you will need to cut the zip-tie to remove it. Turn the gas valve 45’ so that the slot is perpendicular to the ground.
 
-![Gas Shut Off](images/2018/05/IMG_2831-small-53.jpeg)
-![Gas Shut Off](images/2018/05/IMG_2831-small-57.jpeg)
-![Gas Shut Off](images/2018/05/IMG_2831-small-59.jpeg)
+![Gas Shut off 1](images/2018/05/IMG_2829-small-53.jpeg)
+![Gas Shut Off 3](images/2018/05/IMG_2831-small-59.jpeg)
+![Gas Off 2](images/2018/05/IMG_2830-small-57.jpeg)
 
 __Get informed__ - We have a hand crank radio in the yellow bag in the garage. You will need to crank the radio for   ~ 1 min to get 45 secs of play. Make a game of who can crank the radio the longest. Make sure that the power selector is set to “rechargeable” and the radio is off before cranking. There are “C” batteries in the garage that will power the radio as well, you will need to move the power selector to “Dry” to take advantage of this power source.
 
