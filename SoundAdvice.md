@@ -1,0 +1,81 @@
+# Sound Advice
+I copied this list of a site, or a re: re: email from a friend. As an effort not to loose the ideas contained in them I have added it to my idle-ramblings, it's like a modern day version of the 100 rules of war. 
+
+- [ ] Stop talking about where you went to college.
+- [ ] Always carry cash. Keep some in your front pocket.
+- [ ] Rebel from business casual. Burn your khakis and wear a suit or jeans.
+- [ ] It’s okay to trade the possibility of your 80s and 90s for more guaranteed fun in your 20s and 30s.
+- [ ] The best public restrooms are in hotels.
+- [ ] Never stay out after midnight three nights in a row… Unless something really good comes up on the third night.
+- [ ] Play competitive sports for as long as you can.
+- [ ] Never date an ex of your friend.
+- [ ] If riding the bus doesn’t incentivize you to improve your station in life, nothing will.
+- [ ] Time is too short to do your own laundry.
+- [ ] When the bartender asks, you should already know what you want to drink.
+- [ ] If you perspire, wear a damn undershirt.
+- [ ] You don’t have to like baseball, but you should understand the concept of what a pitcher’s ERA means. Approach life similarly.
+- [ ] When people don’t invite you to a party, you really shouldn’t go. And sometimes even when you are invited, you shouldn’t go.
+- [ ] People are tired of you being the funny, drunk guy.
+- [ ] When in doubt, always kiss the girl.
+- [ ] Tip more than you should.
+- [ ] You probably use your cell phone too often and at the wrong moments.
+- [ ] Buy expensive sunglasses.
+- [ ] Do 50 push-ups, sit-ups, and dips before you shower each morning.
+- [ ] Eat brunch with friends at least every other weekend. Leave Rusty and Junior at home.
+- [ ] Be a regular at more than one bar.
+- [ ] Act like you’ve been there before.
+- [ ] Laugh more.
+- [ ] A glass of wine or two with lunch will not ruin your day.
+- [ ] It’s better if old men cut your hair.
+- [ ] Learn how to fly-fish.
+- [ ] No selfies. Aspire to experience photo-worthy moments in the company of a beautiful woman.
+- [ ] Own a handcrafted shotgun. It’s a beautiful thing.
+- [ ] There’s always another level. Just be content knowing that you are still better off than most who have ever lived.
+- [ ] You can get away with a lot more if you’re the one buying the drinks.
+- [ ] Ask for a salad instead of fries.
+- [ ] Don’t split a check.
+- [ ] Pretty women who are unaccompanied want you to talk to them.
+- [ ] Cobblers will save your shoes. So will shoe trees.
+- [ ] When a bartender buys you a round, tip double.
+- [ ] The cliche is that having money is about not wasting time. But in reality, money is about facilitating spontaneity.
+- [ ] Be spontaneous.
+- [ ] Find a Times New Roman in the streets and a Wingdings in the sheets. She exists.
+- [ ] Do not use an electric razor.
+- [ ] Desserts are for women. Order one and pretend you don’t mind that she’s eating yours.
+- [ ] Buy a tuxedo before you are thirty. Stay that size.
+- [ ] One girlfriend at a time is probably enough.
+- [ ] /#StopItWithTheHashtags
+- [ ] Your ties should be rolled and placed in a sectioned tie drawer.
+- [ ] Throw parties. But have someone else clean up the next day.
+- [ ] You may only request one song from the DJ.
+- [ ] Measure yourself only against your previous self.
+- [ ] Take more pictures. With a camera.
+- [ ] Place-dropping is worse than-name dropping.
+- [ ] When you admire the work of artists or writers, tell them. And spend money to acquire their work.
+- [ ] Your clothes do not match. They go together.
+- [ ] Yes, of course you have to buy her dinner.
+- [ ] Staying angry is a waste of energy.
+- [ ] Revenge can be a good way of getting over anger.
+- [ ] If she expects the person you are 20% of the time, 100% of the time, then she doesn’t want you.
+- [ ] Always bring a bottle of something to the party.
+- [ ] Avoid that “last” whiskey. You’ve probably had enough.
+- [ ] Don’t use the word “closure” or ever expect it in real life.
+- [ ] If you are wittier than you are handsome, avoid loud clubs.
+- [ ] Drink outdoors. And during the day. And sometimes by yourself.
+- [ ] Date women outside your social set. You’ll be surprised.
+- [ ] If it’s got velvet ropes and lines, walk away unless you know someone.
+- [ ] You cannot have a love affair with whiskey because whiskey will never love you back.
+- [ ] Feigning unpretentiousness is worse than being pretentious.
+- [ ] The New Yorker is not high-brow. Neither is The Economist.
+- [ ] If you believe in evolution, you should know something about how it works.
+- [ ] No-one cares if you are offended, so stop it.
+- [ ] Never take an ex back. She tried to do better and is settling with you.
+- [ ] Eating out alone can be magnificent. Find a place where you can sit at the bar.
+- [ ] Read more. It allows you to borrow someone else’s brain.
+- [ ] Ignore the boos. They usually come from the cheap seats.
+- [ ] Hookers aren’t cool, but remember, the free ones are a lot more expensive.
+- [ ] Don’t ever say, "it is what it is."
+- [ ] Give thoughtful gifts.
+- [ ] Don’t gamble if losing is going to piss you off.
+- [ ] Life is short. Wait for a good pitch to hit
+- [ ] Remember: "Rules are for the obedience of fools and the guidance of wise men"
