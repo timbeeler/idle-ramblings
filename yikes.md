@@ -98,7 +98,9 @@ Regional Repeater -Vacaville| 5| N6ICW|147.195| +0.6 MHz | 123.00
 
 **Emergency Communication Reference List:**
 
-__**Verify all numbers prior to implementation**__
+```
+NOTE: Verify all numbers prior to implementation
+```
 
 This list is to be used as a written reference to reach people and agencies as needed. Do not assume that the stored numbers in your mobile device will be reachable in an emergency.
 
@@ -126,31 +128,35 @@ Red Cross  | (707) 438-7060  | 1545 N. Texas Street Fairfield, CA 94533
 ## Shelter-in-place & Evacuation
 **Summary** - Remember, the goal is to evacuate to safety or find the safest shelter-in-place location. It is extremely important to pause for a moment to decide if it is safer to be outside or inside during an event.  Listen to your instincts. For example, during an earthquake, it may be safer to be outside to avoid a building structural collapse, but during a biohazard incident, it may be safer to be inside, with the doors locked and all windows closed and sealed.
 
-__Evacuation or Shelter-in-place ?__
+### Evacuation or Shelter-in-place?
+If you are home when an emergency occurs, it is important to quickly decide if you can get out the front door, or if you need to shelter-in-place for a period of time. Take in to account the time needed to get the animals.  You **DO NOT** need to get the emergency supplies; the survival gear is useless if you are injured or killed trying to retrieve it before evacuating.
 
-If you are home when an emergency occurs, it is important to quickly decide if you can get out the front door, or if you need to shelter-in-place for a period of time. Take in to account the time needed to get the animals.  You DO NOT need to get the emergency supplies; the survival gear is useless if you are injured or killed trying to retrieve it before evacuating.
-About evacuating or sheltering with pets
+#### About evacuating or sheltering with pets
 Don't try to hold your pet during a quake. Animals instinctively want to hide when their safety is threatened. If you get in their way, even the nicest pets may hurt you.
 Watch animals closely. Leash dogs and place them in a fenced yard.
 Pets may not be allowed into shelters for health and space reasons. Prepare an emergency pen for pets in the home that includes a 3-day supply of dry food and a large container of water.
 If you can't find your pet or must leave it at home after a quake, leave fresh water in non-spill containers such as bathtubs and sinks. Leave plenty of low-fat dry food, which deteriorates more slowly and is less tasty so pets won't try to eat it all at once. Leave a note indicating that you have a pet, where you will be and the date.
 
-__Shelter-in-place - Home__ - If you shelter in place, make sure you get the dog(s) into a safe place (kennel).  The kitchen is the best place to shelter-in-place.
+### Shelter-in-place - Home
+**Address:**
 
-__Inspect__ - Immediately after event, start inspection of house. You want to confirm that the house is safe for shelter in place.
+If you shelter in place, make sure you get the dog(s) into a safe place (kennel). The kitchen is the best place to shelter-in-place.
+
+__Inspection CheckList__ 
+*Immediately after event, start inspection of house. You want to confirm that the house is safe for shelter in place.*
 
 Checklist | Status | Notes
 ---|---|---
 Smells (rotten egg, smoke)  |   |  
 Water pipes (under sinks)  |   |  
-Doors (open/close freely)  |   |  
+Doors, Garage Door (open/close freely)  |   |  
 Windows (broken open/close)  |   |  
 Cracks in walls  |   |  
 Outside (sounds/ smells)  |   |  
 Outside cracks  |   |  
 Outside obstructions (power lines / trees)  |   |  
 
-__Shut Off Gas__ -
+### Shut Off Gas
 In an emergency, your gas can be turned off at the main gas service shutoff valve. Do not shut off the gas unless you smell gas, hear gas escaping, see a broken gas line or suspect a gas leak. If you shut off the gas, there may be a considerable delay before PG&E can turn your service back on.
 We have a gas wrench attached to the meter, you will need to cut the zip-tie to remove it. Turn the gas valve 45’ so that the slot is perpendicular to the ground.
 
@@ -158,7 +164,8 @@ We have a gas wrench attached to the meter, you will need to cut the zip-tie to 
 ![Gas Shut Off 3](images/2018/05/IMG_2831-small-59.jpeg)
 ![Gas Off 2](images/2018/05/IMG_2830-small-57.jpeg)
 
-__Get informed__ - We have a hand crank radio in the yellow bag in the garage. You will need to crank the radio for   ~ 1 min to get 45 secs of play. Make a game of who can crank the radio the longest. Make sure that the power selector is set to “rechargeable” and the radio is off before cranking. There are “C” batteries in the garage that will power the radio as well, you will need to move the power selector to “Dry” to take advantage of this power source.
+### Get informed
+We have a hand crank radio in the yellow bag in the garage. You will need to crank the radio for   ~ 1 min to get 45 secs of play. Make a game of who can crank the radio the longest. Make sure that the power selector is set to “rechargeable” and the radio is off before cranking. There are “C” batteries in the garage that will power the radio as well, you will need to move the power selector to “Dry” to take advantage of this power source.
 
 FM stations will provide you with the best reception during the day, and is easier to scan for news. Tune to 90.9 / 89.3 / 88.5
 
@@ -167,4 +174,26 @@ AM stations will provide you will a longer distance ( incase local stations are 
 The mobile go radio in the office has a 12v battery and can be used to monitor NOAA and Solano Sheriff, along with other vital local and regional services. You’ll get better reception on outside with the mag antenna. Once the battery is depleted, you’ll need A/C to recharge it. Estimated run time is 4 hours, and depending on transmission power will decrease. There is a USB charger on the unit, reserve what you charge.
 Execute the Communication Plan once you have confirmed that you are safe.
 
-__Shelter-in-place - Work__ -
+### Evacuation - Home
+If you evacuate the home, evacuate to a place that is at minimal risk for falling buildings, trees, and power lines.  The quick evacuation point is right outside our house on <street>. The evacuation zone is located at the Park (Fire Station)
+
+
+
+---
+
+### Shelter-in-place - Work
+```
+Note: You amay need to duplicate this section for multiple work locations
+```
+**Address:**
+
+
+### Evacuation - Work
+
+```
+Instructions: 
+1. Copy turn by turn walking directions to an agreed upon location. 
+2. Include a map and picture of key landmarks
+3. Take considerations for bridges and overhead hazards
+4. Practice the route
+```
