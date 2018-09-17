@@ -1,11 +1,11 @@
-#Introduction and why does this exist 
+# Introduction and why does this exist 
 
 When talking to leaders in different support organizations, different questions come up, but they are all fundamentally rooted with the same desired outcome. _"How do I provide the best experience for my customer(s)"._
 
 Over the past two decades, I have been afforded the opportunity to dive deep into the support discipline. This document contains my beliefs on the topic and is the combination of my experiences, knowledge, and education. In an effort to promote a growth mindset I would like to challenge my thoughts and principals by widening the audience and seeking feedback to improve or alter my beliefs. Additionally, I believe that this document may aid new leaders in tackling support for the first time. 
 
 
-##How I got here
+## How I got here
 
 I have always been fascinated with the realm of mechanical engineering, and the modern four-stroke engine is one example of a calibrated orchestra of multiple moving components delivering a force that can be experienced by all five senses (if you ever get the chance to experience drag cars in person do it!). My passion for automobiles grew into my teens; unfortunately, my love for good grades did not follow. When I turned 19, I was a fully trained diesel mechanic. Having the knowledge of how to tune a Cummins 8.3l engine, I thought I was going to rule the world. But as it turns out, I spent the first year of my diesel mechanic career doing mundane tasks like upgrading CB's to helping drivers configure their Bluetooth headsets. Once I was stuck with polishing 28 feet of stainless steel on a trailer for a food show. Yeah, it turns out that I wasn't going to get much time wrenching. Instead, I made my mark talking to customers, learning what they wanted. Over time I made my way into (near) luxury automobiles. It was a lot of the same in some degree, people wanted to sync their phonebooks to their new cars, program their garage door openers, gain a better understanding of the noise they heard when they missed a gear at 70mph.  
 
@@ -17,7 +17,7 @@ I was able to transfer my passion for helping people understand their technology
     
 Along with my journey, I have found the most successful support folks, share some variation of this passion and purpose. They all get excited at the opportunity to make someone else’s life better. 
 
-##The Culture of _Support_...
+## The Culture of _Support_...
 I define culture as:
 
 _A set of assumed truths that a team has adopted to solve it's problems (both internally and externally), these adoptions are shared with new members_
@@ -32,7 +32,7 @@ I also use this time to re-engage with team members at the personal level and re
 
 If someone has the technical aptitude, we can teach them the logic of the most complex systems. If they are persistent, we can show them the library of technical articles to find deeply hidden solutions. If they show a grin when the shit hits the fan, then we can supply them with all the caffeine and pizza. Combine all three of natural talents, and you have the perfect person for support.
 
-##Give a Northstar
+## Give a Northstar
 
 Every team needs to have a Mission Statement, you  **cannot** afford to opperate with one. This ensures that everyones knows the northstar. Start simple, less is more. Ensure it's not too ambigious but defines a future desired outcome. Lastly the mission statement should be generational. 
 
@@ -42,7 +42,7 @@ Currently I am working with the following statement:
 
 Every quarter we build objectives and strategies to achive a degree closer to mission statement. I like to categorize them into the **Team, Teammate, and Self** priorities. Sometimes it works, sometimes it doesn't. 
 
-##How To Do Work
+## How To Do Work
 When I worked in support operations, I learned (the hard way) I had to focus on myself and my work. I was heavily influenced by Gene Kim's “The Phoenix Project.” In his book, he talks about three parallels. I have summarized them as they pertain to support:
 
 1. Increase your velocity downstream
@@ -57,7 +57,7 @@ These parallels need to remain in focus when thinking about project work. But th
 
 I tell leaders to think about an actual fire, you have to put that out before you improve or put measures in place to prevent it from happening again. Once you're safe, you can focus on the wallpaper. 
 
-##Support the Business
+## Support the Business
 The section above has served me well with technical teams and operations, but with support, there is another order of operations that you need to be aware of.
 
 1. Accurate - you have to be right 
@@ -67,8 +67,8 @@ The section above has served me well with technical teams and operations, but wi
 
 For my team we have two primary roles that split these operations up into primary areas of responsibilities:
 
-###The Response Specialist -
+### The Response Specialist -
 This role focuses on being accurate and available. We build schedules to match our demand and focus on metrics like "first-time reply" and SLA. Like an ATM, if you ask for a $20 and get a $5, it doesn't matter how many machines there are you won't trust them so you won't use them. Burn these two areas and **Go Right To Jail, Do Not Pass Go, Do Not Collect $200.** It's been my experience that when support teams go astray, it's because they have failed to focus on these two concepts of support. 
 
-###The Product Specialist -
+### The Product Specialist -
 This role intends to focus on building partnerships and transforming into the advisor. They have to develop and maintain the partnership with all stakeholder personas. They need to couch and support the response role, understand the expectations of the user, and the constraints of the product team. We rely on various satisfaction scores to measure the engagement of the product specialist. We challenge them with creating documentation that encourages self-help and decreases the dependency on the response. We have them deliver engaging training sessions that invoke user feedback. We measure success when the product specialist is considered the expert advisor in a domain. 
