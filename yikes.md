@@ -142,7 +142,8 @@ If you can't find your pet or must leave it at home after a quake, leave fresh w
 
 If you shelter in place, make sure you get the dog(s) into a safe place (kennel). The kitchen is the best place to shelter-in-place.
 
-__Inspection CheckList__ 
+__Inspection CheckList:__
+ 
 *Immediately after event, start inspection of house. You want to confirm that the house is safe for shelter in place.*
 
 Checklist | Status | Notes
