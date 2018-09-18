@@ -42,7 +42,7 @@ Currently I am working with the following statement:
 
 Every quarter we build objectives and strategies to achive a degree closer to mission statement. I like to categorize them into the **Team, Teammate, and Self** priorities. Sometimes it works, sometimes it doesn't. 
 
-## How To Do Work
+## Prioritize the Work
 When I worked in support operations, I learned (the hard way) I had to focus on myself and my work. I was heavily influenced by Gene Kim's “The Phoenix Project.” In his book, he talks about three parallels. I have summarized them as they pertain to support:
 
 1. Increase your velocity downstream
@@ -62,13 +62,17 @@ The section above has served me well with technical teams and operations, but wi
 
 1. Accurate - you have to be right 
 2. Available - you have to there
-3. Partner - you need to be seen as a partner
-4. Advisor - you now can influence decisions
+3. Partner - build a partnership with your stakeholders
+4. Advisor - teach and influence the future decisions of stakeholders
 
 For my team we have two primary roles that split these operations up into primary areas of responsibilities:
 
 ### The Response Specialist -
-This role focuses on being accurate and available. We build schedules to match our demand and focus on metrics like "first-time reply" and SLA. Like an ATM, if you ask for a $20 and get a $5, it doesn't matter how many machines there are you won't trust them so you won't use them. Burn these two areas and **Go Right To Jail, Do Not Pass Go, Do Not Collect $200.** It's been my experience that when support teams go astray, it's because they have failed to focus on these two concepts of support. 
+This role focuses on being accurate and available. We build schedules to match our demand and focus on metrics like "first-time reply" and SLA’s. Like an ATM, if you ask for a $20 and get a $5, it doesn't matter how many machines there are you won't trust any of them. Burn these two areas and **Go Right To Jail, Do Not Pass Go, Do Not Collect $200.** It's been my experience that when support teams go astray, it's because they have failed to focus on these two concepts of support first and foremost. As simple as it sounds these areas are critical and foundamentally the most important. 
 
 ### The Product Specialist -
-This role intends to focus on building partnerships and transforming into the advisor. They have to develop and maintain the partnership with all stakeholder personas. They need to couch and support the response role, understand the expectations of the user, and the constraints of the product team. We rely on various satisfaction scores to measure the engagement of the product specialist. We challenge them with creating documentation that encourages self-help and decreases the dependency on the response. We have them deliver engaging training sessions that invoke user feedback. We measure success when the product specialist is considered the expert advisor in a domain. 
+This role is less tranactional and more transfermational. Focused on building partnerships and becoming a n advisor for stakeholders.They need to coach and support the response specailist, understand the expectations of the enduser, and explain the constraints of the product team. We rely on various satisfaction scores to measure the engagement of the product specialist. We challenge them with creating documentation that encourages self-help and decreases the dependency on the response. We have them deliver engaging training sessions that invoke user feedback. We measure success when the product specialist is considered the expert advisor in a domain. 
+
+While the Product Support Specailist is the proactive approach to support, we could not achieve it without the reactive foundation of the response specailsit. When this symbiotic relationship is achieved, we are able to:
+1. Deliver accurate responses to our customers, immedately becoming hyper senstive to thier needs before our own
+2. Deliver  
