@@ -2,7 +2,7 @@
 
 When talking to leaders in different support organizations, different questions come up, but they are all fundamentally rooted with the same desired outcome. _"How do I provide the best experience for my customer(s)"._
 
-Over the past two decades, I have been afforded the opportunity to dive deep into the support discipline. This document contains my beliefs on the topic and is the combination of my experiences, knowledge, and education. In an effort to promote a growth mindset I would like to challenge my thoughts and principals by widening the audience and seeking feedback to improve or alter my beliefs. Additionally, I believe that this document may aid new leaders in tackling support for the first time. 
+Over the past two decades, I have been afforded the opportunity to dive deep into the support discipline. This document contains my beliefs on the topic and is the combination of my experiences, knowledge, and education. To promote a growth mindset, I would like to challenge my thoughts and principals by widening the audience and seeking feedback to improve or alter my beliefs. Additionally, I believe that this document may aid new leaders in tackling support for the first time. 
 
 
 ## How I got here
@@ -34,13 +34,13 @@ If someone has the technical aptitude, we can teach them the logic of the most c
 
 ## Give a Northstar
 
-Every team needs to have a Mission Statement, you  **cannot** afford to opperate with one. This ensures that everyones knows the northstar. Start simple, less is more. Ensure it's not too ambigious but defines a future desired outcome. Lastly the mission statement should be generational. 
+Every team needs to have a Mission Statement, you  **cannot** afford to operate with one. This ensures that everyone knows the Northstar. Start simple, less is more. Ensure it's not too ambiguous but defines a future desired outcome. Lastly, the mission statement should be generational. 
 
-Currently I am working with the following statement:
+Currently, I am working with the following statement:
 
 **PROVIDE A WORLD CLASS TRAINING & SUPPORT EXPERIENCE THAT COMPLIMENTS OUR PRODUCTS AND EMPOWERS OUR TEAMMATES.**
 
-Every quarter we build objectives and strategies to achive a degree closer to mission statement. I like to categorize them into the **Team, Teammate, and Self** priorities. Sometimes it works, sometimes it doesn't. 
+Every quarter we build objectives and strategies to achieve a degree closer to the mission statement. I like to categorize them into the **Team, Teammate, and Self** priorities. Sometimes it works, sometimes it doesn't. 
 
 ## Prioritize the Work
 When I worked in support operations, I learned (the hard way) I had to focus on myself and my work. I was heavily influenced by Gene Kim's “The Phoenix Project.” In his book, he talks about three parallels. I have summarized them as they pertain to support:
@@ -68,11 +68,11 @@ The section above has served me well with technical teams and operations, but wi
 For my team we have two primary roles that split these operations up into primary areas of responsibilities:
 
 ### The Response Specialist -
-This role focuses on being accurate and available. We build schedules to match our demand and focus on metrics like "first-time reply" and SLA’s. Like an ATM, if you ask for a $20 and get a $5, it doesn't matter how many machines there are you won't trust any of them. Burn these two areas and **Go Right To Jail, Do Not Pass Go, Do Not Collect $200.** It's been my experience that when support teams go astray, it's because they have failed to focus on these two concepts of support first and foremost. As simple as it sounds these areas are critical and foundamentally the most important. 
+This role focuses on being accurate and available. We build schedules to match our demand and focus on metrics like "first-time reply" and SLA’s. Like an ATM, if you ask for a $20 and get a $5, it doesn't matter how many machines there are you won't trust any of them. Burn these two areas and **Go Right To Jail, Do Not Pass Go, Do Not Collect $200.** It's been my experience that when support teams go astray, it's because they have failed to focus on these two concepts of support first and foremost. As simple as it sounds these areas are critical and fundamentally the most important. 
 
 ### The Product Specialist -
-This role is less tranactional and more transfermational. Focused on building partnerships and becoming a n advisor for stakeholders.They need to coach and support the response specailist, understand the expectations of the enduser, and explain the constraints of the product team. We rely on various satisfaction scores to measure the engagement of the product specialist. We challenge them with creating documentation that encourages self-help and decreases the dependency on the response. We have them deliver engaging training sessions that invoke user feedback. We measure success when the product specialist is considered the expert advisor in a domain. 
+This role is less transactional and more transformational. Focused on building partnerships and becoming an advisor for stakeholders. They need to coach and support the response specialist, understand the expectations of the end-user, and explain the constraints of the product team. We rely on various satisfaction scores to measure the engagement of the product specialist. We challenge them with creating documentation that encourages self-help and decreases the dependency on the response. We have them deliver engaging training sessions that invoke user feedback. We measure success when the product specialist is considered the expert advisor in a domain. 
 
-While the Product Support Specailist is the proactive approach to support, we could not achieve it without the reactive foundation of the response specailsit. When this symbiotic relationship is achieved, we are able to:
-1. Deliver accurate responses to our customers, immedately becoming hyper senstive to thier needs before our own
-2. Deliver  
+While the Product Support Specialist is the proactive approach to support, we could not achieve it without the reactive foundation of the response specialist. When this symbiotic relationship is made, we are able to:
+1. Deliver accurate responses to our customers, immediately becoming hypersensitive to their needs before our own
+2. Become a trusted advisor to help the organization deliver on its promise to bring the obligation to provide a future of ease and convenience to reality.
